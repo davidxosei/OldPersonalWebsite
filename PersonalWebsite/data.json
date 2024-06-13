@@ -1,0 +1,40 @@
+{
+  "about": {
+    "name": "David Osei",
+    "title": "Computer Science Major",
+    "photo": "https://cdn.glitch.global/8ee35c13-50e3-4c45-96d8-e89adbe760da/IMG_0921.jpg?v=1709091487677",
+    "bio": "I am a Computer Science major at Boston College with demonstrated experience in Neural Machine Translation, Python, and Java. I enjoy building algorithms to analyze data and developing Data Science projects. Currently, I am working on data projects that use object-oriented programming. I am open to full-time jobs where I can learn more about software engineering!",
+    "location": "Boston College, Chestnut Hill, MA 02467",
+    "resume": "https://david-osei.glitch.me/resume.html",
+    "linkedin": "https://www.linkedin.com/in/davidxosei/",
+    "github": "https://github.com/davidxosei?tab=stars"
+  },
+  "news": [
+    {
+      "date": "1/15/24",
+      "content": "Began working on Valorant Discord Bot"
+    },
+    {
+      "date": "2/20/24",
+      "content": "Currently searching for a job"
+    }, 
+    {
+      "date": "3/15/24",
+      "content": "Completed Valorant Discord Bot"
+    }
+  ],
+  "projects": [
+    {
+      "id": "dunk-contest",
+      "title": "Dunk Contest (Java)",
+      "description": "Successfully applied Strategy, Factory Method, and Singleton design patterns to create a scalable dunk contest",
+      "link": "https://david-osei.glitch.me/project1.html"
+    },
+    {
+      "id": "ta-application",
+      "title": "TA Application Website (TechSupport on GitHub) (Django)",
+      "description": "Collaborated with 5 other students to create a website where students can apply to be a teaching assistant",
+      "link": "https://david-osei.glitch.me/project2.html"
+    }
+  ]
+}
